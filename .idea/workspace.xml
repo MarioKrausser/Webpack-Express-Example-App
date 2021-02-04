@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="094a9d01-2d69-43ab-9766-e6363cec5068" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/fend-webpack-content.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__test__/testUrlChecker.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/styles/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/js/formHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/js/formHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/js/nameChecker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/js/urlChecker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/styles/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/styles/base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/styles/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/__test__/testFormHandler.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/styles/form.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/styles/form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/styles/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/styles/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/styles/resets.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/styles/resets.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.prod.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1my3d6XQSuGqO4erwaUCbh17rhR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="npm.build-dev">
+    <configuration name="build-dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build-dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build-prod" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build-prod" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start-prod" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start-prod" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.start-prod" />
+      <item itemvalue="npm.build-dev" />
+      <item itemvalue="npm.build-prod" />
+      <item itemvalue="npm.start" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="094a9d01-2d69-43ab-9766-e6363cec5068" name="Default Changelist" comment="" />
+      <created>1610452087392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610452087392</updated>
+      <workItem from="1610452088521" duration="5128000" />
+      <workItem from="1610529011180" duration="6281000" />
+      <workItem from="1610963744687" duration="15588000" />
+      <workItem from="1611045226754" duration="11355000" />
+      <workItem from="1611128007794" duration="13185000" />
+      <workItem from="1611213695400" duration="12532000" />
+      <workItem from="1611670269219" duration="3008000" />
+      <workItem from="1611832503981" duration="1785000" />
+      <workItem from="1612171504416" duration="4320000" />
+      <workItem from="1612176033606" duration="3235000" />
+      <workItem from="1612265967299" duration="6977000" />
+      <workItem from="1612297626187" duration="23000" />
+      <workItem from="1612338093823" duration="609000" />
+      <workItem from="1612351508109" duration="6694000" />
+      <workItem from="1612424387206" duration="642000" />
+      <workItem from="1612431854740" duration="4557000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="269" y="130" width="999" height="647" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612267785115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="269" y="130" width="999" height="647" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1612267785115" />
+    <state x="294" y="159" width="1092" height="763" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1612174801202" />
+    <state x="606" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610532087731">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="606" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1610532087731" />
+    <state x="570" y="251" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612177172455">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="570" y="251" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1612177172455" />
+    <state width="1659" height="352" key="GridCell.Tab.0.bottom" timestamp="1612436831369">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1515" height="275" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612269246843" />
+    <state width="1659" height="352" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1612436831369" />
+    <state width="1659" height="352" key="GridCell.Tab.0.center" timestamp="1612436831369">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1515" height="275" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612269246843" />
+    <state width="1659" height="352" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1612436831369" />
+    <state width="1659" height="352" key="GridCell.Tab.0.left" timestamp="1612436831369">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1515" height="275" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612269246842" />
+    <state width="1659" height="352" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1612436831369" />
+    <state width="1659" height="352" key="GridCell.Tab.0.right" timestamp="1612436831369">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1515" height="275" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612269246843" />
+    <state width="1659" height="352" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1612436831369" />
+  </component>
+</project>
