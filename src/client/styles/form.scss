@@ -1,0 +1,29 @@
+form {
+    border: 1px solid #3D3F45;
+    border-radius: 3px;
+    box-shadow: 5px 10px;
+    padding: 40px;
+}
+
+input {
+    padding: 5px 20px;
+    width: 100%;
+    line-height: 16px;
+    margin: 10px 0;
+}
+
+#result > #title {
+    background-color: aqua;
+    border: 1px solid #3D3F45;
+    border-radius: 3px;
+    box-shadow: 5px 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#result > #results {
+    background-color: yellow;
+    border: 1px solid #3D3F45;
+    border-radius: 3px;
+    box-shadow: 5px 10px;
+}
