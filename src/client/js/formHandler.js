@@ -58,7 +58,7 @@ async function handleSubmit( event ) {
 
   const data = await getText( baseUrl, key, output, formText );
   await postData( 'http://localhost:8000/addData', {
-    score: data.score_tag,
+    score_tag: data.score_tag,
     agreement: data.agreement,
     subjectivity: data.subjectivity,
     irony: data.irony,
