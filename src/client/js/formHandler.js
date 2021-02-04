@@ -40,7 +40,7 @@ async function handleSubmit( event ) {
   };
 
   const updateUI = async () => {
-    const request = await fetch( '/all' );
+    const request = await fetch( 'http://localhost:8000/all' );
     try {
       const allData = await request.json();
       document.getElementById( 'score' ).innerHTML = `Score: ${ allData.score_tag }`;
@@ -57,7 +57,7 @@ async function handleSubmit( event ) {
   console.log( "::: Form Submitted :::" )
 
   const data = await getText( baseUrl, key, output, formText );
-  await postData( '/addData', {
+  await postData( 'http://localhost:8000/addData', {
     score: data.score_tag,
     agreement: data.agreement,
     subjectivity: data.subjectivity,
