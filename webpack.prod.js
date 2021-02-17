@@ -6,11 +6,11 @@ const OptimizeCSSAssetsPlugin = require('optimize-css-assets-webpack-plugin');
 const TerserPlugin = require('terser-webpack-plugin');
 const WorkboxPlugin = require('workbox-webpack-plugin');
 
-//Define dotenv
-const dotenv = require('dotenv');
-const config = dotenv.config().parsed;
+// //Define dotenv
+// const dotenv = require('dotenv');
+// const config = dotenv.config().parsed;
 
-console.log(config)
+// console.log(config)
 
 module.exports = {
     entry: './src/client/index.js',
@@ -44,9 +44,9 @@ module.exports = {
             template: "./src/client/views/index.html",
             filename: "./index.html",
         }),
-        new webpack.DefinePlugin({
-            'process.env': JSON.stringify(config),
-        }),
+        // new webpack.DefinePlugin({
+        //     'process.env': JSON.stringify(config),
+        // }),
         new MiniCssExtractPlugin({ filename: "[name].css" }),
 
         new WorkboxPlugin.GenerateSW(),
